@@ -108,7 +108,7 @@ Enables data-driven policy analysis
 Includes end-to-end video, documentation, dashboard link, and source code.
 
 ##Author:
-P.Balji
+P.Balaji
 B.Tech – Artificial Intelligence and Data Science
 
 ##Future Enhancements:
